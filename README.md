@@ -1,4 +1,4 @@
-# Watch Your Step — CSE 100 Lab 6
+# Watch Your Step
 
 This project implements a single-player platform game on the Basys 3 FPGA board using Verilog. All graphics and logic are rendered through a 640x480 VGA display, and gameplay is entirely hardware-driven.
 
